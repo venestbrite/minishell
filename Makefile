@@ -67,6 +67,6 @@ re:				fclean $(NAME)
 .PHONY:			all clean fclean re
 
 # \U0001F602 -- laughing emoji
-# \U0001F642 -- Ludovica's smile
+# \U0001F642 -- Smile
 # \U0001F609 -- Occhiolino
 # \U0001F62E -- :O 
